@@ -1,2 +1,1 @@
-# A_Star-Algorithm-in-C
-A_Star Algorithm in C
+This project implements an A* pathfinding algorithm for two autonomous robots navigating a grid-based environment while avoiding obstacles and collisions. The objective is for the robots to meet at a designated location while adhering to movement constraints. The implementation includes state-space search techniques, heuristic optimizations, and conflict resolution strategies.
